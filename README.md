@@ -7,6 +7,11 @@ This was a lab for the Google Cybersecurity Certificate. The prompt was to creat
 
 We were given an allow list of IP addresses which has access to restricted content, `“allow_list.txt”`. We were then given a remove list which identifies IP addresses that should no longer have access to the restricted content. I automated updating of the `“allow_list.txt”` to remove IP addresses that should no longer have access using a Python algorithm. 
 
+## Environment/Code:
+
+- Jupyter notebook
+   
+- Python
 
 ## Open the file that contains the allow list
 The first part of the project I was tasked with opening the allow list file.
